@@ -33,3 +33,11 @@ img{
 .info{
     font-size: 1.25;
 }
+.three-column{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+    width: 80%;
+    margin: auto;
+    margin-top: 40px;
+}
