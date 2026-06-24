@@ -31,7 +31,7 @@ img{
     margin-top: 40px;
 }
 .info{
-    font-size: 1.25;
+      font-size: 1.25rem;
 }
 .three-column{
     display: grid;
